@@ -23,7 +23,7 @@ const Navbar = () => {
           </ul>
         </div>
 
-        <button className="button">Contato</button>
+        <button className="button n-button">Contato</button>
       </div>
     </div>
   );

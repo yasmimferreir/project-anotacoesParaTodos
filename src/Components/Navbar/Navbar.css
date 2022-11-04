@@ -14,11 +14,13 @@
   display: flex;
   font-size: 1.3rem;
   font-weight: bold;
+  color: white;
 }
 
 .n-title {
   font-size: 1rem;
   font-weight: 400;
+  color: white;
 }
 
 .n-right {
@@ -31,6 +33,7 @@
 
 .n-list {
   flex: 10;
+  color: white;
 }
 
 .n-list > ul {
@@ -42,4 +45,8 @@
 .n-list > ul > li:hover {
   cursor: pointer;
   color: blueviolet;
+}
+
+.n-button {
+  flex: 2;
 }
