@@ -10,7 +10,6 @@ const Navbar = () => {
         <div className="n-title">
           <SlGraduation /> Anotações para todos
         </div>
-        <span>toggle</span>
       </div>
 
       <div className="n-right">

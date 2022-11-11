@@ -40,11 +40,13 @@
   display: flex;
   gap: 2rem;
   margin-right: 4rem;
+  transition: all 1s;
 }
 
 .n-list > ul > li:hover {
   cursor: pointer;
-  color: blueviolet;
+  color: var(--orange);
+  transition: all 1s;
 }
 
 .n-button {
