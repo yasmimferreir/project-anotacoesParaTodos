@@ -5,10 +5,11 @@ import { AiFillLinkedin } from "react-icons/ai";
 import vetor1 from "../../img/Vector1.png";
 import vetor2 from "../../img/Vector2.png";
 import vetor3 from "../../img/astronauta.png";
+
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
-//import emoji from "../../img/emoji.png";
+import emoji from "../../img/emoji.png";
 import javascript from "../../img/javascript.png";
-//import nodejs from "../../img/nodejs-.png";
+import nodejs from "../../img/nodejs-.png";
 
 const Intro = () => {
   return (
