@@ -3,6 +3,7 @@
   height: 77vh;
   margin-top: 6rem;
   color: white;
+  margin-left: 4rem;
 }
 
 .i-left {
@@ -31,7 +32,7 @@
 
 .i-name > :nth-child(3) {
   margin-top: 10px;
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 .i-icons {
@@ -39,11 +40,17 @@
   display: flex;
   gap: 0rem;
   font-size: 3rem;
-  padding-left: 20px;
 }
 
 a {
   color: white;
+  margin-left: 1rem;
+  transition: all 1s;
+}
+
+a:hover {
+  color: #f5c32c;
+  transition: all 1s;
 }
 
 .i-right {
@@ -57,19 +64,7 @@ a {
 }
 
 .i-right > :nth-child(1) {
-  transform: scale(0.6);
-  left: -10%;
+  transform: scale(0.8);
+  left: 20%;
   top: -16%;
-}
-
-.i-right > :nth-child(2) {
-  top: -12rem;
-  transform: scale(0.45);
-  left: -4rem;
-}
-
-.i-right > :nth-child(3) {
-  transform: scale(0.58);
-  left: 8%;
-  top: -22%;
 }

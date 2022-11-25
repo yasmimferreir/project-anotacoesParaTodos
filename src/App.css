@@ -28,7 +28,9 @@ button {
 }
 
 body {
-  background-image: url(./img/banner-bg-dark.jpg);
+  background-image: url(../src/img/banner-bg-dark.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden;
 }
 
 .button:hover {

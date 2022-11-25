@@ -1,14 +1,14 @@
-import { SlGraduation } from "react-icons/sl";
 import React from "react";
 import "./Navbar.css";
+import { TiPencil } from "react-icons/ti";
 
 const Navbar = () => {
   return (
     <div className="n-wrapper">
       <div className="n-left">
-        <div className="n-name">Dev Yasmim Ferreira</div>
+        <div className="n-name">Dev Yasmim Ferreira Costa</div>
         <div className="n-title">
-          <SlGraduation /> Anotações para todos
+          Anotações para todos <TiPencil className="icon" />
         </div>
       </div>
 

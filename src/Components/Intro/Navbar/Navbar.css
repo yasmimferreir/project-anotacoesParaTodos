@@ -8,6 +8,7 @@
   flex: 1;
   align-items: center;
   gap: 2rem;
+  margin-top: 1.2rem;
 }
 
 .n-name {
@@ -19,8 +20,13 @@
 
 .n-title {
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 500;
   color: white;
+}
+
+.icon {
+  font-size: 1.4rem;
+  color: #f5c32c;
 }
 
 .n-right {
@@ -41,6 +47,7 @@
   gap: 2rem;
   margin-right: 4rem;
   transition: all 1s;
+  font-size: 1.2rem;
 }
 
 .n-list > ul > li:hover {
