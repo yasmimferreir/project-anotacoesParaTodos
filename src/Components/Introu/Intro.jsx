@@ -5,11 +5,10 @@ import { AiFillLinkedin } from "react-icons/ai";
 import vetor1 from "../../img/Vector1.png";
 import vetor2 from "../../img/Vector2.png";
 import vetor3 from "../../img/astronauta.png";
-
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
-import emoji from "../../img/emoji.png";
-import javascript from "../../img/javascript.png";
-import nodejs from "../../img/nodejs-.png";
+import javasc from "../../img/javascript.png";
+import nodejs from "../../img/nodejs-1-logo.png";
+import react from "../../img/react.png";
 
 const Intro = () => {
   return (
@@ -40,11 +39,20 @@ const Intro = () => {
         <img src={vetor2} alt="" />
         <img src={vetor3} alt="" />
 
-        <div>
+        <div style={{ top: "-4%", left: "68%" }}>
+          <FloatingDiv image={javasc} txt1="Linguagem" txt2="JavaScript" />
+        </div>
+
+        <div style={{ top: "18rem", left: "0rem" }}>
+          <FloatingDiv image={nodejs} txt1="Servidor" txt2="NodeJs" />
+        </div>
+
+        <div style={{ top: "-4%", left: "-10%" }}>
           <FloatingDiv
-            image={{ javascript }}
-            txt1="Linguagem"
-            txt2="Javascript"
+            image={react}
+            txt1="Biblioteca"
+            txt2="ReactJs"
+            className="react-img"
           />
         </div>
       </div>
