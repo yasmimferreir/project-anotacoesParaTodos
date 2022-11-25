@@ -1,70 +1,108 @@
-# Getting Started with Create React App
+#  📚InformaçõesParaTodos-reactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>📄 Explicação
 
-## Available Scripts
+O projeto dedicado ao público Devs para o acesso a informação e educação, está em desenvolvimento é um projeto voltado para area de programação,
+conteúdos referentes ao conhecimento que estou tendo com a programação, 
+Front-end, Back-end e Banco de Dados, entre eles estão:<br>
+<strong>
+- [x] Html (Marcação de intertxtos) <br>
+- [x] Css (Estilização)<br>
+- [x] Programação orientado a obejto (POO) <br>
+- [x] Lógica de Programação<br>
+- [x] Javascript (Linguagem de Prograamação)<br>
+- [x] Biblioteca Javascript ReatJs(Biblioteca)<br>
+- [x] Gerenciamento de pacotes<br>
+- [x] Material Ui<br>
+- [x] React Icons<br>
+- [x] API's Rest<br>
+- [x] Servidor NodeJs(Back-end)<br>
+- [x] Banco de dados(SQL) <br>
+  entre outros conehcimentos adqueridos. 
 
-In the project directory, you can run:
 
-### `npm start`
+<br>
+> Em andamento do projeto
+<img src="" width="800px";
+     alt="exemplo imagem">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### 🛠 Ajustes e melhorias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-### `npm run build`
+- [x] Design FIGMA
+- [x] Css
+- [x] Java Script
+- [x] Responsive
+- [x] Biblioteca ReactJs
+- [x] Yarn 
+- [x] React Icons
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Utilização : <br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ReactJs
+> $ npx create-react-app
 
-### `npm run eject`
+   Yarn 
+> $ yarn 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ Reactjs  Icons
+ > $ npm install react-icons --save
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Pré-requisitos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de  NodeJs
+* Você tem uma máquina Windows 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Instalando o projeto 
 
-## Learn More
+Para instalar o Quiz, siga estas etapas:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Windows: <br>
+git clone `url`.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📫 Contribuindo para o Projeto 
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com o projeto, siga estas etapas:
 
-### Code Splitting
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-### Analyzing the Bundle Size
+## 🤝 Colaboradores
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-### Making a Progressive Web App
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/97356148/200590856-942d44a8-f136-4320-a381-699ecbc0d6ec.JPG" width="100px;" alt="Foto Yasmim Ferreira Costa"/><br>
+        <sub>
+          <b>Yasmim Ferreira Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## 😄 Seja um dos contribuidores<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-### Deployment
+## 📝 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-### `npm run build` fails to minify
+[⬆ Voltar ao topo](#📚InformaçõesParaTodos-reactJs)<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
