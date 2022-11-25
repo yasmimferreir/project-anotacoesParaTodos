@@ -1,9 +1,9 @@
-#  📚InformaçõesParaTodos-reactJs
+#  InformaçõesParaTodos-reactJs
 
 <br>📄 Explicação
-
+Projeto desenvolvido com biblioteca ReactJs, React Icons entre outros.
 O projeto dedicado ao público Devs para o acesso a informação e educação, está em desenvolvimento é um projeto voltado para area de programação,
-conteúdos referentes ao conhecimento que estou tendo com a programação, 
+conteúdos e dicas referentes ao conhecimento que estou tendo com a programação, 
 Front-end, Back-end e Banco de Dados, entre eles estão:<br>
 <strong>
 - [x] Html (Marcação de intertxtos) <br>
@@ -23,7 +23,8 @@ Front-end, Back-end e Banco de Dados, entre eles estão:<br>
 
 <br>
 > Em andamento do projeto
-<img src="" width="800px";
+  <br>
+<img src="https://user-images.githubusercontent.com/97356148/204036499-de6ec4cc-b226-433f-bd41-f50caf170922.png" width="600px";
      alt="exemplo imagem">
 
 
@@ -104,5 +105,5 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#📚InformaçõesParaTodos-reactJs)<br>
+[⬆ Voltar ao topo](#InformaçõesParaTodos-reactJs)<br>
 
