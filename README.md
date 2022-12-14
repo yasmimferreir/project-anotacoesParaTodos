@@ -2,7 +2,7 @@
 
 <br>📄 Explicação
 <br>
-Projeto desenvolvido com biblioteca ReactJs, React Icons entre outros.
+Projeto em desenvolvimento com biblioteca ReactJs, React Icons entre outros.
 O projeto dedicado ao público Devs para o acesso a informação e educação, está em desenvolvimento é um projeto voltado para area de programação,
 conteúdos e dicas referentes ao conhecimento que estou tendo com a programação, 
 Front-end, Back-end e Banco de Dados, entre eles estão:<br>
